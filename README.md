@@ -1,2 +1,2 @@
-Modern Full Stack ECommerce Application with Stripe & Sanity
+Modern full stack e-commerce application with stripe & sanity.
 
